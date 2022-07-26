@@ -7,6 +7,6 @@ def vowel_counter(sentence):
         result[vowel]=sentence.lower().count(vowel)
     return result
 
-if _name_=="_main_":
+if __name__=="__main__":
     msg="this is a test"
     print(vowel_counter(msg))

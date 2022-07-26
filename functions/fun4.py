@@ -8,11 +8,11 @@ def mult(a,b):
     return a*b
 def div(a,b):
     return a/b
-if_name_ == "_main_":
-print(add(5,5))
-print(sub(8,7))
-print(mult(2,2))
-print(div(8,4))
+if __name__ == "__main__":
+    print(add(5,5))
+    print(sub(8,7))
+    print(mult(2,2))
+    print(div(8,4))
     
 
 
