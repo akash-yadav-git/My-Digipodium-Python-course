@@ -14,7 +14,3 @@ if __name__ == "__main__":
     print(mult(2,2))
     print(div(8,4))
     
-
-
-
-    
