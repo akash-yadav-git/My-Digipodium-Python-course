@@ -26,5 +26,5 @@ for f in fib(15):
 
 def square(limit):
     for i in range(1,limit+1):
-        yield
+        yield i 
 
